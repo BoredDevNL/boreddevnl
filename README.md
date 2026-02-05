@@ -22,9 +22,6 @@
 <h2 align="left">What I'm Working On</h2>
 
 <ul>
-  <li>🕹️ <a href="https://github.com/BoredDevnl/facetrack">facetrack</a> – A Simple Arduino project that uses the camera (python script) to turn coordinates into degrees for servos attached to an arduino.</li>
-</ul>
-<ul>
   <li>💾 <a href="https://github.com/boreddevnl/BrewOS">BrewOS</a> – A hobbyist self-written OS.</li>
 </ul>
 
