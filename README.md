@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m a high school student from the Netherlands and work mainly on front-end and game development. Wanna know more? see my work at <a href="https://boreddev.nl">boreddev.nl</a>.</p>
+<p align="left">I’m a high school student from the Netherlands and specialize in back-end development. Wanna know more? see my work at <a href="https://boreddev.nl">boreddev.nl</a>.</p>
 
 
 ###
