@@ -28,12 +28,10 @@
 
 
 
-<!-- 🧰 Tech Stack -->
 <h3 align="center"><samp>🧰 Tech Stack</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <!-- Frontend -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -41,10 +39,6 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       <br>CSS3
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -60,7 +54,6 @@
     </td>
   </tr>
   <tr>
-    <!-- Backend -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>JavaScript
@@ -69,26 +62,13 @@
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
-    <!-- General Purpose -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="48" height="48" alt="C" />
       <br>C
-    </td>
-    <td align="center" width="100">
-    <img src="https://www.svgrepo.com/download/373617/gamemaker.svg" width="48" height="48" alt="GML" />
-      <br>GML
     </td>
     <td align="center" width="100">
       <img src="https://www.svgrepo.com/show/373445/assembly.svg" width="48" height="48" alt="Assembly" />
@@ -96,7 +76,6 @@
     </td>
   </tr>
   <tr>
-    <!-- Tools & OS -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -110,8 +89,8 @@
       <br>Figma
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" width="48" height="48" alt="Grafana" />
-      <br>Grafana
+      <img src="https://cdn.simpleicons.org/homeassistant/41BDF5" width="48" height="48" alt="Home Assistant" />
+      <br>HAssistant
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
@@ -132,10 +111,6 @@
     <td align="center" width="100">
       <img src="https://www.svgrepo.com/download/349366/freebsd.svg" width="48" height="48" alt="FreeBSD" />
       <br>FreeBSD
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.svgrepo.com/show/306507/openbsd.svg" width="48" height="48" alt="OpenBSD" />
-      <br>OpenBSD
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
