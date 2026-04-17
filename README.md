@@ -125,7 +125,6 @@
 </div>
 
 <br>
-mac user by heart <3
 
 ###
 ###
