@@ -22,7 +22,7 @@
 <h2 align="left">What I'm Working On</h2>
 
 <ul>
-  <li>💾 <a href="https://github.com/boreddevnl/BoredOS">BoredOS</a> – A hobbyist self-written OS.</li>
+  <li>💾 <a href="https://github.com/boreddevnl/BoredOS">BoredOS</a> – A hobbyist from-scratch OS.</li>
 </ul>
 
 
