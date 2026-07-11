@@ -6,23 +6,14 @@
 
 ###
 
-<p align="left">I’m a high school student from the Netherlands and specialize in back-end development. Wanna know more? see my work at <a href="https://boreddev.nl">boreddev.nl</a>.</p>
+<p align="left">I'm the original creator and main maintainer of the BoredOS project and therefore specialize in osdev along with a few other things.. 
+  
+Wanna know more? see my work at <a href="https://boreddev.nl">boreddev.nl</a>.</p>
 
-
-###
-
-<h2 align="left">Where I'm at</h2>
-
-###
-
-<p align="left">📚 I'm learning how to design proper UX.<br>🎯 Goal: Make a user-friendly design to help elders use computers.</p>
-
-###
-
-<h2 align="left">What I'm Working On</h2>
+<h2 align="left">My Life, My project.</h2>
 
 <ul>
-  <li>💾 <a href="https://github.com/BoredOS/BoredOS">BoredOS</a> – A hobbyist from-scratch OS.</li>
+  <li>💾 <a href="https://github.com/BoredOS/BoredOS">BoredOS</a>, A from-scratch unix-like operating system.</li>
 </ul>
 
 
